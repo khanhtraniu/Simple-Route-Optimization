@@ -2,4 +2,5 @@
 Use 3 tools: Excel Solver, Rstudio, Python to solve this problem
 
 ##Scenario##
-![image](https://github.com/user-attachments/assets/faa16bac-3051-448d-b181-a0da92c9c37f)
+![image](https://github.com/user-attachments/assets/5c307fac-b1c9-45d1-8e58-694c59b797e7)
+
